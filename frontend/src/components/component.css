@@ -1,0 +1,15 @@
+h1{
+  position: fixed;
+  text-align: center;
+}
+
+.bookView{
+    padding-bottom: 5%;
+    display: grid;
+    text-align: center;
+}
+
+button{
+  size-adjust: 2px;
+  cursor: pointer;
+}
